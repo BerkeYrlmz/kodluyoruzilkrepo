@@ -17,10 +17,11 @@ git clone https://github.com/BerkeYrlmz/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-'''linux
+
+```linux
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Constributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
