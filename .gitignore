@@ -66,3 +66,11 @@ typings/
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/.gitignore
+
+# images
+/images
+/img
+.img
+.jpg
+.png
+.jpeg
