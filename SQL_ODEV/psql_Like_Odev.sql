@@ -6,9 +6,9 @@ WHERE country LIKE 'A%a';
 SELECT * FROM country
 WHERE country LIKE '_____n';
 
---3.soru EKSİK!
+--3.soru
 SELECT title FROM film
-WHERE title ILIKE '%T%';
+WHERE title ILIKE '%T%T%T%T%';
 
 --4.soru
 SELECT * FROM film
